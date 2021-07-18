@@ -1,0 +1,7 @@
+{
+  "name": "my-b-project",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "main": "lib/index.js"
+}

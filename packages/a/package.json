@@ -1,0 +1,10 @@
+{
+  "name": "my-a-project",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "dependencies": {
+    "my-b-project": "^1.0.0"
+  }
+}

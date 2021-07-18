@@ -1,0 +1,8 @@
+{
+  "extends": "./tsconfig.shared.json",
+  "files": [],
+  "references": [
+    { "path": "packages/a" },
+    { "path": "packages/b" }
+  ]
+}
