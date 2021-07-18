@@ -4,7 +4,7 @@
 
 1. Run `yarn` to install packages and setup the workspace.
 2. Run `yarn dev` to start webpack
-3. Edit `packages/a/src/index.ts' and change the `change me` text to anything.
+3. Edit `packages/a/src/index.ts` and change the `change me` text to anything.
 
 Upon doing the above, you'll end up with an exception like so:
 ```
